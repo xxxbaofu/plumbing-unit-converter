@@ -21,7 +21,7 @@ npm test
 npm run build
 ```
 
-Serve `dist/` with any static web server, or deploy it as a static site. The website and standalone build share `src/core.mjs` and `src/Converter.tsx`. No environment variables or credentials are needed.
+Serve `dist-web/` with any static web server, or deploy it as a static site. The website and standalone build share `src/core.mjs` and `src/Converter.tsx`. No environment variables or credentials are needed.
 
 ## Conversion basis
 
